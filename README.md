@@ -1,5 +1,4 @@
 # Git 튜토리얼
 
-but
+- fix-B
 
-not test
