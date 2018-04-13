@@ -1,4 +1,5 @@
 # Git 튜토리얼
 
-- feature-AA
-- fix-B
+- feature-AAA
+- fix-BBB
+- feature-CCC
